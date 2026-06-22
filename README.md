@@ -7,6 +7,10 @@ Setup
 Teamwork
 You will work on this quest in teams. How you organize yourselves, divide tasks, and collaborate is entirely up to you.
 
+Vildan: Structure & Identity columns - Date/Year/Time, Type (unprovoked/provoked), Country, Area, Location 
+Moci — Victim columns - Name, Sex, Age, Activity 
+Keagan — Outcome & Species columns - Fatal (Y/N), Injury, Species
+
 How to Approach the Quest
 Each day, you should aim to:
 
